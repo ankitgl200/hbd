@@ -117,4 +117,4 @@ Created by **Ankit Ghugtyal**
 
 ## License
 
-This project is intended as a personal birthday website. Add a license if you plan to distribute or reuse the project publicly.
+This project is licensed under the [MIT License](./LICENSE).
