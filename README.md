@@ -51,7 +51,11 @@ No build tools or package installation are required.
 
 3. Visit [http://localhost:8000](http://localhost:8000).
 
-4. LIVE DEMO : [Pyar Ka Birthday](https://pyar-ka-bdy.vercel.app/)
+
+## LIVE DEMO
+See Live Demo: 
+[Pyar Ka Birthday](https://pyar-ka-bdy.vercel.app/)
+
 
 ## How to Customize
 
